@@ -9,6 +9,4 @@ function pow(a, b) {
 let result2 = pow(2, 2);
 let result3 = pow(2, 3);
 let result4 = pow(2, 4);
-let result5 = Math.pow(2, 5);
-console.log(`2 в степени 2: ${result2}\n2 в степени 3: ${result3}\n2 в степени 4: ${result4}`);
-console.log(result5);
+console.log(`2 pow 2: ${result2}\n2 pow 3: ${result3}\n2 pow 4: ${result4}`);
